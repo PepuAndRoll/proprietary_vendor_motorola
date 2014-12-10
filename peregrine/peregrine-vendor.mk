@@ -16,4 +16,4 @@
 
 # Pick up overlay for features that depend on non-open-source files
 
-$(call inherit-product, vendor/motorola/peregrine/peregrine-vendor-blobs.mk)
+$(call inherit-product, vendor/motorola/titan/titan-vendor-blobs.mk)
